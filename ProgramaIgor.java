@@ -6,6 +6,6 @@ public class ProgramaIgor {
 	        Scanner sc = new Scanner(System.in);
 	        System.out.println("Digite seu nome: ");
 	        String nome = sc.next();
-	        System.out.println( "Ol· "+ nome);
+	        System.out.println( "Ol√° "+ nome + "Bem-Vindo a este programa");
 	      }
 	  }
